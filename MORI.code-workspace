@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "MORI",
+			"path": "../mori/MORI"
+		},
+		{
+			"name": "mori",
+			"path": "../mori"
+		}
+	],
+	"settings": {}
+}
